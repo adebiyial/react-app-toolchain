@@ -13,6 +13,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^1.12.4",
+    "prettier": "^2.0.5"
   }
 }
