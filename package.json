@@ -24,6 +24,7 @@
     "eslint-plugin-react-hooks": "^4.0.5",
     "parcel": "^1.12.4",
     "prettier": "^2.0.5",
+    "prop-types": "^15.7.2",
     "sass": "^1.26.9",
     "styled-components": "^5.1.1"
   }
